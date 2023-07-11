@@ -6,3 +6,6 @@
 
 ### [Learn to Code With Me](https://learntocodewith.me/)
 
+### [DEV Community](https://dev.to/)
+
+### [BOOT.DEV BLOG](https://blog.boot.dev/)
