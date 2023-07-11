@@ -1,9 +1,7 @@
 # Programming World Map
 
 
-## Python
-
-[Python](https://github.com/mihir-chakma/web/python.md)
+## [Python](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/python.md)
 
 
 
