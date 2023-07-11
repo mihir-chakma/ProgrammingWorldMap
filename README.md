@@ -4,6 +4,9 @@
 ## [Programming](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/Programming.md)
 
 
+## [Data Structures and Algorithms - DSA](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/DSA.md)
+
+
 ## [Web Development](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/WebDev.md)
 
 
