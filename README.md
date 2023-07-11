@@ -2,7 +2,8 @@
 
 
 ## Python
-[PyNative](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/WEB.md#python)
+
+[PyNative](https://pynative.com/)
 
 ## License
 
