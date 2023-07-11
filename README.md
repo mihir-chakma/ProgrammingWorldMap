@@ -1,5 +1,6 @@
 # Programming World Map
 
+Bringing together all educational content in one place.
 
 ## [Programming](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/Programming.md)
 
