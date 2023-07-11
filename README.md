@@ -1,17 +1,16 @@
 # Programming World Map
 
 
-## [Python](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/python.md)
+## [Programming](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/Programming.md)
 
 
+## [Web Development](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/WebDev.md)
 
-## Java
 
-## Web Development 
+## [Mobile Application Development](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/AppDev.md)
 
-## Mobile Application Development 
 
-## Frameworks
+## [Blog and Articles](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/Blog.md)
 
 
 ## Contributing
