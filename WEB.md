@@ -2,5 +2,5 @@
 
 ## Python 
 
-- [PyNative](https://pynative.com/)
+[PyNative](https://pynative.com/)
 
