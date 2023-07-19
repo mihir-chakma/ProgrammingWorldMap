@@ -5,6 +5,6 @@
 ### [C Programming - A Historical Perspective](https://www.cc4e.com/)
 ### [Learn-C](https://www.learn-c.org/)
 
-## [Learn C Programming](https://www.programiz.com/c-programming)
+### [Learn C Programming](https://www.programiz.com/c-programming)
 
 ### [The C Handbook](https://flaviocopes.com/book/c/)
