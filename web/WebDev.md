@@ -6,3 +6,7 @@
 
 ### [Tutorial Republic](https://www.tutorialrepublic.com/)
 
+### [Sabe](https://sabe.io/)
+
+### [DevDocs](https://devdocs.io/)
+

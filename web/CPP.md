@@ -7,3 +7,6 @@
 ### [Microsoft C++](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 
 ### [C++ reference](https://en.cppreference.com/w/)
+
+### [Awesome C++](http://fffaraz.github.io/awesome-cpp/)
+
