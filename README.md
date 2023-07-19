@@ -13,7 +13,7 @@ Bringing together all educational content in one place.
 ## [Blog and Articles](https://github.com/mihir-chakma/ProgrammingWorldMap/blob/main/web/Blog.md)
 
 
-## Happy Coding 👨‍💻
+## ```Happy Coding 👨‍💻```
 
 
 ## License
